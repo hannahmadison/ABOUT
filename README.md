@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hms20112015
+- 👋 Hi, I’m @hannahmadison
 - 👀 I’m interested in all things data, analytics and building complex + distributed systems. 
 - 🌱 I’m currently learning about LLMs and how to effectively deploy RAG-based applications. 
 - 💞️ I’m looking to collaborate on data / analytics / data science / GenAI / LLMing etc.
