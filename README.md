@@ -7,6 +7,6 @@
 
 📐 Core toolkit: Python, PyTorch, LangChain, Airflow, Snowflake, Databricks, Redshift.
 
-💞️ Open to collaborating on ML engineering, data science, and GenAI projects.
+🩷 Open to collaborating on ML engineering, data science, and GenAI projects.
 
 📫 [hannahsmith.me](https://hannahsmith.me)
